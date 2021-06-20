@@ -1,0 +1,34 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+title Case Study: Notebook
+
+skinparam linetype ortho
+
+class Notebook {
++notes: list
++search(filter:str): list
++new_note(memo, tags="")
++modify_memo(note_id, memo)
++modify_tags(note_id, tags)
+}
+
+class Note {
++memo
++creation_date
++tags
++match(search_filter:str): boolean
+}
+
+Notebook --* Note
+
+card "CommandOption" {
+}
+
+card "Menu" {
+}
+
+"Menu" - Notebook
+"CommandOption" - Notebook
+
+@enduml
