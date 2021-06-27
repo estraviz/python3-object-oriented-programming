@@ -6,16 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0] - 2021-0X-XX
+### Added
+- Chapter 4: Expecting the Unexpected.
+
 ## [0.2.0] - 2021-06-26
 ### Added
-- Chapter 3.
+- Chapter 3: When Objects are Alike.
 
 ## [0.1.0] - 2021-06-21
 ### Added
 - Initial version.
-- Up to chapter 2.
+- Up to Chapter 2: Objects in Python.
 - Basic notebook project.
 
 [Unreleased]: https://github.com/estraviz/python3-object-oriented-programming/v0.2.0...HEAD
+[0.3.0]: https://github.com/estraviz/python3-object-oriented-programming/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/estraviz/python3-object-oriented-programming/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/estraviz/python3-object-oriented-programming/releases/tag/v0.1.0
