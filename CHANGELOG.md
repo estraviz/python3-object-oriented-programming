@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.0] - 2021-06-28
+### Added
+- Chapter 5: When to Use Object-Oriented Programming.
+
 ## [0.3.0] - 2021-06-27
 ### Added
 - Chapter 4: Expecting the Unexpected.
@@ -20,7 +24,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Up to Chapter 2: Objects in Python.
 - Basic notebook project.
 
-[Unreleased]: https://github.com/estraviz/python3-object-oriented-programming/v0.2.0...HEAD
+[Unreleased]: https://github.com/estraviz/python3-object-oriented-programming/compare/v0.4.0...HEAD
+[0.4.0]: https://github.com/estraviz/python3-object-oriented-programming/compare/v0.3.0...v0.4.0
 [0.3.0]: https://github.com/estraviz/python3-object-oriented-programming/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/estraviz/python3-object-oriented-programming/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/estraviz/python3-object-oriented-programming/releases/tag/v0.1.0

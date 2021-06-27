@@ -8,7 +8,7 @@ from basic_notebook.notebook import Notebook
 class Menu:
     def __init__(self) -> None:
         self.notebook: Notebook = Notebook()
-        self.choices: dict = {
+        self.choices: dict = {  # command pattern
             "1": self.show_notes,
             "2": self.search_notes,
             "3": self.add_note,
