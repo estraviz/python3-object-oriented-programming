@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.3.0] - 2021-0X-XX
+## [0.3.0] - 2021-06-27
 ### Added
 - Chapter 4: Expecting the Unexpected.
 
